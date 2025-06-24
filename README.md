@@ -2,7 +2,7 @@
 
 # Pharma Manufacturing Data Lakehouse Project
 
-This project showcases end-to-end capabilities including ingestion from multiple file formats, 
+This project showcases end-to-end capabilities, including ingestion from multiple file formats, 
 Bronze-Silver-Gold architecture, star schema modeling, and Power BI-style visualizations using Python.
 
 ---

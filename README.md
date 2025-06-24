@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Pharma Manufacturing Data Lakehouse Project
 
@@ -100,3 +101,6 @@ Data Engineer (Azure | Fabric | PySpark)
 Email: your.email@example.com  
 LinkedIn: [https://www.linkedin.com/in/sonu-kumar-13550118b/]
 ---
+=======
+# pharma-fabric-data-lakehouse
+Full-scale Fabric project with star schema &amp; visualizations

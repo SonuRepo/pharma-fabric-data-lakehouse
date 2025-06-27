@@ -98,7 +98,7 @@ All others graph are present in notebook kindly check visualization notebook
 
 **Sonu Kumar**  
 Data Engineer (Azure | Fabric | PySpark)  
-Email: your.email@example.com  
+Email: sonu.kumar.connect2025@gmail.com 
 LinkedIn: [https://www.linkedin.com/in/sonu-kumar-13550118b/]
 ---
 =======
